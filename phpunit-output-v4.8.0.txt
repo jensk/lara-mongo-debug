@@ -1,0 +1,97 @@
+# Example Test Results (4.8.0)
+
+```
+PHPUnit 11.3.6 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.12
+Configuration: /home/jens/code/sandbox/lara-mongo-debug/phpunit.xml
+
+.TEST01 TIME: 8ms
+.TEST02 TIME: 8ms
+.TEST03 TIME: 8ms
+.TEST04 TIME: 8ms
+.TEST05 TIME: 8ms
+.TEST06 TIME: 9ms
+.TEST07 TIME: 8ms
+.TEST08 TIME: 8ms
+.TEST09 TIME: 8ms
+.TEST10 TIME: 9ms
+.TEST11 TIME: 8ms
+.TEST12 TIME: 8ms
+.TEST13 TIME: 8ms
+.TEST14 TIME: 9ms
+.TEST15 TIME: 8ms
+.TEST16 TIME: 8ms
+.TEST17 TIME: 8ms
+.TEST18 TIME: 9ms
+.TEST19 TIME: 8ms
+.TEST20 TIME: 8ms
+.TEST21 TIME: 8ms
+.TEST22 TIME: 8ms
+.TEST23 TIME: 8ms
+.TEST24 TIME: 8ms
+.TEST25 TIME: 8ms
+.TEST26 TIME: 8ms
+.TEST27 TIME: 8ms
+.TEST28 TIME: 8ms
+.TEST29 TIME: 8ms
+.TEST30 TIME: 9ms
+.TEST31 TIME: 8ms
+.TEST32 TIME: 8ms
+.TEST33 TIME: 8ms
+.TEST34 TIME: 8ms
+.TEST35 TIME: 8ms
+.                              36 / 36 (100%)
+
+Time: 00:00.443, Memory: 26.00 MB
+
+OK (36 tests, 36 assertions)
+```
+
+```
+PHPUnit 11.3.6 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.12
+Configuration: /home/jens/code/sandbox/lara-mongo-debug/phpunit.xml
+
+.TEST01 TIME: 8ms
+.TEST02 TIME: 8ms
+.TEST03 TIME: 8ms
+.TEST04 TIME: 8ms
+.TEST05 TIME: 8ms
+.TEST06 TIME: 8ms
+.TEST07 TIME: 8ms
+.TEST08 TIME: 8ms
+.TEST09 TIME: 8ms
+.TEST10 TIME: 8ms
+.TEST11 TIME: 8ms
+.TEST12 TIME: 8ms
+.TEST13 TIME: 8ms
+.TEST14 TIME: 8ms
+.TEST15 TIME: 8ms
+.TEST16 TIME: 8ms
+.TEST17 TIME: 8ms
+.TEST18 TIME: 8ms
+.TEST19 TIME: 9ms
+.TEST20 TIME: 8ms
+.TEST21 TIME: 8ms
+.TEST22 TIME: 8ms
+.TEST23 TIME: 8ms
+.TEST24 TIME: 8ms
+.TEST25 TIME: 8ms
+.TEST26 TIME: 8ms
+.TEST27 TIME: 8ms
+.TEST28 TIME: 8ms
+.TEST29 TIME: 8ms
+.TEST30 TIME: 9ms
+.TEST31 TIME: 8ms
+.TEST32 TIME: 8ms
+.TEST33 TIME: 8ms
+.TEST34 TIME: 8ms
+.TEST35 TIME: 8ms
+.                              36 / 36 (100%)
+
+Time: 00:00.438, Memory: 26.00 MB
+
+OK (36 tests, 36 assertions)
+```
